@@ -1,0 +1,13 @@
+Xây Dựng Webserver (Youtube):
+https://www.youtube.com/watch?v=ryIGwYvPUUk&t=713s&ab_channel=L%C3%AANguy%E1%BB%85n
+https://www.youtube.com/watch?v=zAEEZydE1PY&t=349s&ab_channel=L%C3%AANguy%E1%BB%85n
+https://www.youtube.com/watch?v=KZG66FcfZ1g&t=606s&ab_channel=L%C3%AANguy%E1%BB%85n
+
+Cấu Trúc Chương Trình Python:
+https://cafedev.vn/tu-hoc-python-cau-truc-cua-mot-chuong-trinh-trong-python/
+
+Các Hàm String Python( để parse request):
+https://toidicode.com/cac-ham-xu-ly-chuoi-trong-python-368.html
+
+Multithreading, xử lý đa luồng (đọc qua để làm multiconneciton):
+https://viblo.asia/p/da-luong-trong-python-multithreading-WAyK8MO6ZxX
